@@ -17,7 +17,8 @@ a:link, a:visited {
   </head>
   <body>
   <h2>Link Button</h2>
-  <p> A button-styled link:</p></br>
+  <p> A button-styled link:</p>
+  </br>
   <a href="activity4.html" target="_blank">Back to homepage</a>
   </body>
   </html>
