@@ -1,0 +1,8 @@
+
+thead {color:orange;}
+tbody {color: blue;}
+
+table, th, td {
+	border: 1px white;
+	text-align: center;
+	}
