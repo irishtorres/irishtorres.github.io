@@ -1,6 +1,6 @@
 
 
-table th {
+#schedule th {
 	
 	background-color: #ffd7ba;
 	font-family: Cambria;
@@ -8,12 +8,11 @@ table th {
 	padding-bottom: 24px;
 	width:1%;
 	}
-table td {
+#schedule td {
 	font-family: Cambria;
 	}
 
-
-table, th, td {
+#schedule th,#schedule td {
 	border: 3px solid white;
 	text-align: center;
 	
