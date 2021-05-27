@@ -3,10 +3,10 @@
 #schedule th {
 	
 	background-color: #ffd7ba;
-	font-family: Times New Roman;
+	font-family: Cambria;
 	padding-top: 24px;
 	padding-bottom: 24px;
-	width:100%;
+	width:1%;
 	}
 #schedule td {
 	font-family: Cambria;
@@ -14,7 +14,7 @@
 
 
 #schedule th, #schedule td {
-	border: 5px solid black;
+	border: 3px solid white;
 	text-align: center;
 	
 	}
