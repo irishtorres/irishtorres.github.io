@@ -3,7 +3,7 @@
 #schedule th {
 	
 	background-color: #ffd7ba;
-	font-family: Arial;
+	font-family: Times New Roman;
 	padding-top: 24px;
 	padding-bottom: 24px;
 	width:100%;
@@ -14,7 +14,7 @@
 
 
 #schedule th, #schedule td {
-	border: 5px solid white;
+	border: 5px solid black;
 	text-align: center;
 	
 	}
